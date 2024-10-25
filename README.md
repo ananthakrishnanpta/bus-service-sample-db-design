@@ -1,6 +1,6 @@
 ﻿# bus-service-sample-db-design
 
-<img src="eer.png" width = 700px>
+<img src="eer.png" width = 100%>
 
 # Bus Transport System Database Project
 
