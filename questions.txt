@@ -1,0 +1,10 @@
+1. Design DB for BMTC
+2. Assume that each bus has only source and destination and no stops in between
+3. Database must support following query:
+		- Filter the buses by source and destination and list out:
+			1. Bus no.
+			2. Driver name
+			3. Driver contact number
+			4. departure and arrival time of bus
+			5. Last_maintenance_date of the bus
+			
